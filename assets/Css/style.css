@@ -189,7 +189,7 @@ border-radius: 15px;
        }
 }
 
-@media (min-width: 768px) and (max-width:992px) {
+@media (min-width: 768px) {
     .collectional{
         white-space: nowrap; /* Empêche le texte de se casser en plusieurs lignes */
         overflow: visible; 
@@ -263,25 +263,6 @@ border-radius: 15px;
     }
 }
 
-@media (min-width: 768px) and (max-width:992px) {
-    .footer-group {
-       display: block;
-       justify-content: space-around;
-       padding: 20px 0; 
-    }
-    .footer-links {
-        display: flex;
-        flex-wrap: nowrap;
-        justify-content: space-around;
-        margin: 0 10px;
-    }
 
-    .link-item {
-        display: flex;
-        justify-content: space-around;
-        margin: 0 20px;
-        padding: 5px 0; 
-    }
-}
 
 
