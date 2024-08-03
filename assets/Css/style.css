@@ -75,7 +75,7 @@ a{
     .photo-left {
         position: relative;
         z-index: 1;
-        top: -115px;
+        top: -90px;
         transform: translateX(-100%);
         width: 49%;
     }
@@ -259,7 +259,7 @@ border-radius: 15px;
         white-space: nowrap;
         flex: 1; 
         text-align: center; 
-        margin: 0 3px; 
+        margin: 0 0.5px; 
     }
 }
 
